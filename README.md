@@ -1,12 +1,12 @@
 # Task 6: K-Nearest Neighbors (KNN)
 
-## 📌 Project Overview
+##  Project Overview
 
 In this task, I implemented the K-Nearest Neighbors (KNN) algorithm using the Iris dataset. The objective was to understand how distance-based classification works and how the value of K affects model performance.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * Python
 * NumPy
@@ -15,7 +15,7 @@ In this task, I implemented the K-Nearest Neighbors (KNN) algorithm using the Ir
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 I used the Iris dataset available in sklearn. It contains measurements of flower features such as:
 
@@ -32,7 +32,7 @@ Target classes:
 
 ---
 
-## ⚙️ Steps Performed
+##  Steps Performed
 
 1. Loaded the Iris dataset using sklearn
 2. Converted the dataset into a Pandas DataFrame
@@ -45,7 +45,7 @@ Target classes:
 
 ---
 
-## 📈 Results
+##  Results
 
 * The model achieved good accuracy on test data
 * Generated classification report including:
@@ -56,7 +56,7 @@ Target classes:
 
 ---
 
-## 📚 Concepts Learned
+##  Concepts Learned
 
 * K-Nearest Neighbors algorithm
 * Distance-based classification
@@ -65,12 +65,6 @@ Target classes:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This task helped me understand how KNN works by using nearest neighbors for classification and how selecting the right K value impacts model accuracy.
-
----
-
-## 🙋‍♀️ Prepared By
-
-Swetha
